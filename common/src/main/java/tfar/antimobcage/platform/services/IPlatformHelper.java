@@ -1,4 +1,4 @@
-package com.example.examplemod.platform.services;
+package tfar.antimobcage.platform.services;
 
 public interface IPlatformHelper {
 
